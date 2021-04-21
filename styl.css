@@ -1,0 +1,119 @@
+body
+{
+margin: 0;
+}
+#container
+{
+	width: 1400px;
+	height: 600px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:white;
+}
+
+#name
+{
+	width: 1390px;
+	height: 50px;
+	background-color:white;
+	color:black;
+	text-align:center;
+}
+
+#top1
+{	
+	width: 340px;
+	height: 50px;
+	background-color: #29ea68;
+	color: black;
+	text-align: center;
+	margin: 5px;
+	float:left;
+}
+#top2
+{	
+	width: 340px;
+	height: 50px;
+	background-color: #e2efa9;
+	color: black;
+	text-align: center;
+	margin: 5px;
+	float:left;
+}
+#top3
+{	
+	width: 340px;
+	height: 50px;
+	background-color: #facd4c ;
+	color: black;
+	text-align: center;
+	margin: 5px;
+	float:left;
+}
+#top4
+{	
+	width: 340px;
+	height: 50px;
+	background-color: #acc5fe;
+	color: black;
+	text-align: center;
+	margin: 5px;
+	float:left;
+}
+#bottom1
+{
+	width: 340px;
+    height: 120px;
+	background-color:  #29ea68 ;
+	text-align: center;
+	margin: 5px;
+	float: left;
+}
+#bottom2
+{
+	width: 340px;
+    height: 120px;
+	background-color:  #e2efa9;
+	text-align: center;
+	margin: 5px;
+	float: left;
+}
+#bottom3
+{
+	width: 340px;
+    height: 120px ;
+	background-color:  #facd4c;
+	text-align: center;
+	margin: 5px;
+	float:  left;
+}
+#bottom4
+{
+	width: 340px;
+    height: 120px;
+	background-color:  #acc5fe;
+	text-align: center;
+	margin: 5px;
+	float: left;
+}
+.png
+{
+	width: 340px;
+	height: 340px;
+	margin: 5px;
+	float:left;	
+}
+.rt_timg {
+    width: 340px;
+    height: 340px;
+    float:left;
+}
+p.pogrubiona {
+  font-weight: bold;
+  font-family: Georgia;
+}
+h3.tekst
+{
+	font-size: 22px;
+	font-family:Arial;
+}
